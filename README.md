@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming  
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on my pisince (Hive Helsinki)
-- 📫 How to reach me ?
+- 📫 How to reach me, i dont know
 
 <!---
 Otso-Hirvikangas/Otso-Hirvikangas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
